@@ -1,2 +1,2 @@
 # Grom-Vision-Game
-I wanna make my own games, and ill create this Platform for you. 
+На этом сайте вы будете получать новости, информации и объяления про новых проектов от студии - Grom Vision! 
